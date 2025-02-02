@@ -73,5 +73,5 @@ Dieses Projekt steht unter der **MIT-Lizenz**.
 
 ## 👨‍💻 Autor
 
-[Zulker] - [Dein GitHub-Profil]
+[Zulker] - [https://github.com/Zulkerr]
 
